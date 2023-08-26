@@ -2,12 +2,15 @@
 
 Welcome to Terminal Clone, a versatile command-line interface that replicates terminal functionality. Explore commands for system management, internet interaction, and Python package handling. Learn about available actions and their usage below.
 
+**Please note that this project is a work in progress and is not yet a complete demo release. Some features may not be fully functional at this time.**
+
 ## Table of Contents
 
 - [Login Command](#login-command)
 - [System Command](#system-command)
 - [Internet Command](#internet-command)
 - [PPM (Python Package Manager) Command](#ppm-python-package-manager-command)
+- [Release Version](#Release-Version)
 - [About Us](#about-us)
 
 ## Login Command
@@ -61,7 +64,49 @@ Manage Python packages using the PPM command. Please note that this command is f
 
 Please feel free to manage your Python packages using the PPM command, knowing that the package installations are not actual and that deleting the `__pycache__` directory won't affect the functionality of this terminal clone or your projects.
 
+## Release Version
 
+**Current Release Version: 5.2**
+**Release Date: August 26, 2023**
+
+We're excited to introduce the initial release of Terminal Clone, version 0.1.0. This marks an important milestone in our project's development, bringing a range of features and functionalities to provide a comprehensive command-line experience. While this release is not the final product, it demonstrates our commitment to creating a versatile and user-friendly terminal simulation.
+
+### Version 2.1
+**Release Date: August 9, 2023**
+
+- Fixed Bug: Resolved an issue preventing internet connection.
+- Fixed Connectivity Issue: Addressed problems with connecting.
+- Performance Improvement: Optimized performance for better responsiveness.
+
+### Version 2.0
+**Release Date: August 5, 2023**
+- Added Login Command
+- Added Internet Commands: `.connect` and `.connect_state`
+
+### Version 1.3
+**Release Date: July 31, 2023**
+- Bug Fixes: Resolved several bugs
+- Error Fix: Fixed issues with `.test` command execution
+
+### Version 1.2
+**Release Date: July 29, 2023**
+- Bug Fixes: Addressed various minor bugs
+
+### Version 1.1
+**Release Date: July 27, 2023**
+- Bug Fixes: Fixed specific bugs
+
+### Version 1.0
+**Release Date: September 24, 2023**
+- Added Basic Commands
+- Introduced System Test Function: `.test` command
+### Future Plans and Feedback
+
+We're dedicated to continuing the development of Terminal Clone and expanding its capabilities in upcoming releases. Your feedback is invaluable to us, and we encourage you to share your thoughts, suggestions, and ideas for improvement. Together, we can shape the future of this project and create an even more powerful and educational tool.
+
+Stay tuned for future updates and releases as we work towards providing a comprehensive and interactive terminal experience.
+
+Thank you for being a part of the Terminal Clone community!
 
 ## About Us
 
