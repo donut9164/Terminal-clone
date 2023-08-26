@@ -1,0 +1,58 @@
+### Version 3.3
+**Release Date: August 20, 2023**
+
+- Performance Improvement: Addressed 3D rendering performance issues.
+- PPM Enhancement: Ongoing work to resolve errors during installation (work in progress).
+
+### Version 3.2
+**Release Date: August 14, 2023**
+
+- Added New PPM Packages: Included additional packages to the PPM (Python Package Manager).
+
+### Version 3.1
+**Release Date: August 14, 2023**
+
+- Performance Improvement: Addressed 3D rendering performance issues.
+- PPM Enhancement: Ongoing work to resolve errors during installation (work in progress).
+
+### Version 3.0
+**Release Date: August 14, 2023**
+
+- Added Feature: Introducing PPM (Python Package Manager) function.
+- New Command: `.render` command for rendering 3D models.
+
+### Version 2.1
+
+**Release Date: August 9, 2023**
+
+- Fixed Bug: Resolved an issue preventing internet connection.
+- Fixed Connectivity Issue: Addressed problems with connecting.
+- Performance Improvement: Optimized performance for better responsiveness.
+
+### Version 2.0
+
+**Release Date: August 5, 2023**
+- Added Login Command
+- Added Internet Commands: `.connect` and `.connect_state`
+
+### Version 1.3
+
+**Release Date: July 31, 2023**
+- Bug Fixes: Resolved several bugs
+- Error Fix: Fixed issues with `.test` command execution
+
+### Version 1.2
+
+**Release Date: July 29, 2023**
+- Bug Fixes: Addressed various minor bugs
+
+### Version 1.1
+
+**Release Date: July 27, 2023**
+- Bug Fixes: Fixed specific bugs
+
+### Version 1.0
+
+**Release Date: September 24, 2023**
+- Added Basic Commands
+- Introduced System Test Function: `.test` command
