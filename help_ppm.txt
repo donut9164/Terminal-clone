@@ -1,0 +1,2 @@
+.help           getting for command
+.exit           exit a ppm funtion
