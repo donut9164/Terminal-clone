@@ -2,7 +2,9 @@
 
 Welcome to Terminal Clone, a versatile command-line interface that replicates terminal functionality. Explore commands for system management, internet interaction, and Python package handling. Learn about available actions and their usage below.
 
-**Please note that this project is a work in progress and is not yet a complete demo release. Some features may not be fully functional at this time.**
+**Please note that this project is a work in progress and is not yet a complete demo release. Some features might not be fully functional or included in this GitHub repository at the moment, but we have plans to add them soon.**
+
+*A release date marks the day when specific features and bug fixes are made available. Not all updates may be present now, but rest assured, we're actively working to update them in the near future.*
 
 ## Table of Contents
 
