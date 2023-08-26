@@ -7,13 +7,15 @@ Welcome to Terminal Clone, a versatile command-line interface that replicates te
 *A release date marks the day when specific features and bug fixes are made available. Not all updates may be present now, but rest assured, we're actively working to update them in the near future.*
 
 ## Table of Contents
-
 - [Login Command](#login-command)
 - [System Command](#system-command)
 - [Internet Command](#internet-command)
 - [PPM (Python Package Manager) Command](#ppm-python-package-manager-command)
 - [Release Version](#Release-Version)
+- [Recommended Python Version](#Recommended-Python-Version)
 - [About Us](#about-us)
+
+
 
 ## Login Command
 
@@ -83,6 +85,16 @@ We're dedicated to continuing the development of Terminal Clone and expanding it
 Stay tuned for future updates and releases as we work towards providing a comprehensive and interactive terminal experience.
 
 Thank you for being a part of the Terminal Clone community!
+
+## Recommended Python Version
+
+We strongly recommend using Python version 3.10.xx for the best experience with this project. While efforts are made to ensure compatibility with other versions, Python 3.10.xx offers optimal performance and compatibility with the features of this project.
+
+Python 3.10.xx introduces numerous enhancements, optimizations, and new features that can greatly benefit your usage of this project. To install Python 3.10.xx, you can visit the [official Python website](https://www.python.org/downloads/) and follow the installation instructions for your platform.
+
+Please note that while this project does support Python version 3.11.x, we do not recommend its use due to potential performance issues. Some features might not be fully optimized or compatible with Python 3.11.x We are actively working to address these issues and plan to provide better support for Python 3.11.x and other versions in the future.
+
+Staying up to date with the latest releases of Python is advised for the most secure and optimized development experience.
 
 ## About Us
 
