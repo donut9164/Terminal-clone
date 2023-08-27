@@ -42,13 +42,10 @@ Use these commands to interact with system-related operations. Please note that 
 Interact with online services using these commands.
 
 - `.connect`: Connect to a server to access various services.
-- `.connect_state`: Check the connection status.
   
 **Please keep in mind:**
 
 - **Real Connection Check**: The `.connect` command checks your internet connection using the Python `socket` library, without sending actual data.
-
-- **Connection State**: The `.connect_state` command informs you of your connection status based on your terminal interactions.
 
 - **Educational Use**: These commands are for learning and demonstration purposes, not actual internet access or activities.
 
